@@ -10,10 +10,4 @@ Minimal landing with three download options:
 
 ---
 
-## Update the landing
-
-Edit `index.html` in the repo root and commit — GitHub Pages will redeploy automatically.
-
----
-
 © 2025 Marc Cutler · MIT License
