@@ -1,8 +1,19 @@
 # MATLAB R2025b — Download Landing
 
-Three download methods: **Direct / Google Drive / Torrent** (.torrent generator via public endpoints).
+**Live page:** https://marccutler048.github.io/matlab-free-download/
 
-**Deploy on GitHub Pages:**
-Settings → Pages → *Build and deployment* → **Deploy from a branch** → Branch `main` / Folder `/ (root)` → Save.
+Minimal landing with three download options:
 
-© 2025 Marc Cutler
+- **Direct** — resumable CDN link  
+- **Google Drive** — mirror with a short *quota* tip  
+- **Torrent** — copy magnet + get `.torrent` (tries public generators)
+
+---
+
+## Update the landing
+
+Edit `index.html` in the repo root and commit — GitHub Pages will redeploy automatically.
+
+---
+
+© 2025 Marc Cutler · MIT License
